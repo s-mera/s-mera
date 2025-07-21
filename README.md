@@ -2,7 +2,6 @@
 
 🎓 I’m a Computer Information Systems student with a passion for web development and Python programming.  
 💻 I’m currently focused on improving my skills in:
-- Frontend development (HTML, CSS, JavaScript)
 - Python scripting and testing
 - Clean code and best programming practices
 
