@@ -9,3 +9,6 @@
 📌 My goal is to become a remote developer and contribute meaningfully to tech projects that make a difference.
 
 
+<figure><embed src="https://wakatime.com/share/@709baddc-3819-4d4e-8401-500d02c930db/c4d5526d-3996-4f89-a5ec-926b21bf60bc.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@709baddc-3819-4d4e-8401-500d02c930db/15541d9f-9e51-4446-84a8-d6874df2230f.svg"></embed></figure>
