@@ -20,9 +20,10 @@
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodavid-mera/)
-📧 Email: tuemail@ejemplo.com
+📧 Email: santiagodavid.mera@gmail.com
 
 ---
 
 *“Waste no more time arguing what a good man should be. Be one.” – Marco Aurelio*
+
 
