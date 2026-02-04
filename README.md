@@ -10,18 +10,6 @@
 
 ---
 
-## ⏱️ Time Coding Stats (via WakaTime)
-
-### 🗓️ Weekly Coding Activity
-
-![WakaTime Week](https://wakatime.com/share/@709baddc-3819-4d4e-8401-500d02c930db/c4d5526d-3996-4f89-a5ec-926b21bf60bc.svg)
-
-### 📊 Language Usage
-
-![WakaTime Languages](https://wakatime.com/share/@709baddc-3819-4d4e-8401-500d02c930db/15541d9f-9e51-4446-84a8-d6874df2230f.svg)
-
----
-
 ## 📈 GitHub Stats
 
 ![Santiago’s GitHub stats](https://github-readme-stats.vercel.app/api?username=s-mera&show_icons=true&theme=radical)
@@ -37,3 +25,4 @@
 ---
 
 *“Waste no more time arguing what a good man should be. Be one.” – Marco Aurelio*
+
